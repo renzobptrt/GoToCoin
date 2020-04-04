@@ -1,7 +1,7 @@
 # GoToCoin
 3D video game about a player who has to run to get coins and win the game.
 
-## Characteristics
+## Features
 - Type: 3D
 - Point of view: First person
 - Gender: First Person Runner
